@@ -19,7 +19,7 @@ st.sidebar.markdown(
     Chúng tôi sẽ nghiên cứu các giá trị nằm ngoài sau một thời gian tới, hãy quay lại sau.**
     
     ## Bước 1: Nhập thông tin cá nhân
-    Bên trái của trang web là một biểu mẫu cho phép bạn nhập thông tin cá nhân của mình. 
+    Bên phải của trang web là một biểu mẫu cho phép bạn nhập thông tin cá nhân của mình. 
     Hãy điền thông tin theo yêu cầu của từng trường dữ liệu. Đảm bảo bạn nhập đầy đủ và chính xác.
     - **Tuổi**: Nằm trong khoảng 14 đến 61.
     - **Chiều cao**: Nằm trong khoảng 1.45 đến 1.98. Đơn vị là m. Vui lòng nhập số thập phân với dấu chấm (.)
@@ -202,5 +202,6 @@ st.sidebar.markdown("---")
 st.sidebar.markdown("### Thông tin liên hệ")
 st.sidebar.markdown("Tác giả: Hoàng Thu Hồng")
 st.sidebar.markdown("MSV: 2051060528")
+st.sidebar.markdown("Outlook: 2051060528@e.tlu.edu.vn")
 st.sidebar.markdown("Gmail: hoanghong4505@gmail.com")
 st.sidebar.markdown("Version 19.03.02")
