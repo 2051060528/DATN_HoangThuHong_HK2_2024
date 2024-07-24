@@ -164,7 +164,7 @@ if submit_button:
                     "để theo dõi tiến triển và đảm bảo bạn đang nhận được sự hỗ trợ và chăm sóc phù hợp trong quá trình giảm cân.\n"
                     "\n**Lưu ý**: Trong quá trình giảm cân, hãy tuân thủ phương pháp an toàn và không nên hoảng loạn. Tránh những lời quảng cáo hứa hẹn giảm cân nhanh chóng và chọn những sản phẩm có nguồn gốc rõ ràng. Tìm đến các chuyên gia uy tín để được tư vấn và lựa chọn phương pháp phù hợp nhất cho sức khỏe của bạn."),
                 5: ('Obesity_Type_II', 
-                    "Bạn đang ở mức độ **béo phì loại II**, đây là một trạng thái sức khỏe nghiêm trọng và đòi hỏi các biện pháp can thiệp ngay lập tức và tích cực.\n"
+                    "Bạn đang ở mức độ **béo phì loại II**, đây là một trạng thái sức khỏe nghiêm trọng và đòi hỏi các biện pháp can thiệp ngay lập tức và tích cực. Những bệnh lý thường gặp như:\n"
                     "1. Tiểu đường, mỡ máu, gan nhiễm mỡ, cao huyết áp hoặc một số bệnh lý về tim mạch, mạch vành và xương khớp.\n"
                     "2. Nguy cơ mắc ung thư cao.\n"
                     "3. Bệnh liên quan đến đường tiêu hoá, đường hô hấp.\n"
